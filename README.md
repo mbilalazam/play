@@ -45,3 +45,7 @@ python3 exploit.py
 - All exploit attempts are run by feeding payloads via a file (`vulfile`)
 - You are **not allowed to modify `Lab8.c`**
 - Include screenshots and explanations in the PDF report
+
+---
+
+**Disclaimer**: I am not the author of this lab. This repository is for personal learning and practice purposes only.
